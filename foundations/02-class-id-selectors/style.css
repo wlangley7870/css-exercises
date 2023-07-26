@@ -1,0 +1,21 @@
+/* styles.css */
+
+p {
+    background-color: #ff9c93;
+    font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #55ff7f;
+    font-weight: bold;
+}
+
+.bigSize {
+    font-size: 24px;
+}
